@@ -85,7 +85,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                 <div className="space-y-2">
                   <div className="aspect-square overflow-hidden bg-stone-100 rounded-xs">
                     <img
-                      src="/src/assets/images/demo_photobooth_vintage_1791782074122.jpg"
+                      src="/images/demo_photobooth_vintage.jpg"
                       alt="Vintage Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover filter grayscale contrast-125"
@@ -93,7 +93,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                   </div>
                   <div className="aspect-square overflow-hidden bg-stone-100 rounded-xs">
                     <img
-                      src="/src/assets/images/demo_photobooth_vintage_1791782074122.jpg"
+                      src="/images/demo_photobooth_vintage.jpg"
                       alt="Vintage Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover filter grayscale contrast-125"
@@ -101,7 +101,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                   </div>
                   <div className="aspect-square overflow-hidden bg-stone-100 rounded-xs">
                     <img
-                      src="/src/assets/images/demo_photobooth_vintage_1791782074122.jpg"
+                      src="/images/demo_photobooth_vintage.jpg"
                       alt="Vintage Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover filter grayscale contrast-125"
@@ -126,7 +126,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                 <div className="space-y-2.5">
                   <div className="aspect-square overflow-hidden bg-rose-100 rounded-sm">
                     <img
-                      src="/src/assets/images/demo_photobooth_laugh_1791782061334.jpg"
+                      src="/images/demo_photobooth_laugh.jpg"
                       alt="Laughing Friends Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover"
@@ -134,7 +134,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                   </div>
                   <div className="aspect-square overflow-hidden bg-rose-100 rounded-sm">
                     <img
-                      src="/src/assets/images/demo_photobooth_duo_1791782085669.jpg"
+                      src="/images/demo_photobooth_duo.jpg"
                       alt="Retro Friends Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover"
@@ -142,7 +142,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
                   </div>
                   <div className="aspect-square overflow-hidden bg-rose-100 rounded-sm">
                     <img
-                      src="/src/assets/images/demo_photobooth_laugh_1791782061334.jpg"
+                      src="/images/demo_photobooth_laugh.jpg"
                       alt="Laughing Friends Photobooth"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover"

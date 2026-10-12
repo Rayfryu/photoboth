@@ -9,7 +9,7 @@ const INITIAL_SAMPLES: SavedSession[] = [
     createdAt: new Date(Date.now() - 86400000 * 2).toISOString(),
     layout: 'strip-3',
     frameStyle: 'pink-retro',
-    previewUrl: '/src/assets/images/demo_photobooth_laugh_1791782061334.jpg',
+    previewUrl: '/images/demo_photobooth_laugh.jpg',
     photosCount: 3,
   },
   {
@@ -18,7 +18,7 @@ const INITIAL_SAMPLES: SavedSession[] = [
     createdAt: new Date(Date.now() - 86400000 * 4).toISOString(),
     layout: 'strip-3',
     frameStyle: 'editorial-black',
-    previewUrl: '/src/assets/images/demo_photobooth_vintage_1791782074122.jpg',
+    previewUrl: '/images/demo_photobooth_vintage.jpg',
     photosCount: 3,
   },
   {
@@ -27,7 +27,7 @@ const INITIAL_SAMPLES: SavedSession[] = [
     createdAt: new Date(Date.now() - 86400000 * 7).toISOString(),
     layout: 'single-frame',
     frameStyle: 'film-strip',
-    previewUrl: '/src/assets/images/demo_photobooth_duo_1791782085669.jpg',
+    previewUrl: '/images/demo_photobooth_duo.jpg',
     photosCount: 1,
   },
 ];

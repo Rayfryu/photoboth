@@ -1,4 +1,4 @@
-  import { CapturedPhoto, FrameSettings, PhotoAdjustment } from '../types/photobooth';
+import { CapturedPhoto, FrameSettings, PhotoAdjustment } from '../types/photobooth';
 import { applyAdjustmentsToCanvas } from './imageFilters';
 
 interface RenderOptions {

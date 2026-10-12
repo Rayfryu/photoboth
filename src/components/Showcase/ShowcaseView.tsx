@@ -26,7 +26,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'The definitive vintage photobooth aesthetic. Pristine cardstock border with centered modern typography.',
       bgClass: 'bg-white border-stone-200',
       textClass: 'text-stone-900',
-      sampleImage: '/src/assets/images/demo_photobooth_laugh_1791782061334.jpg',
+      sampleImage: '/images/demo_photobooth_laugh.jpg',
     },
     {
       style: 'editorial-black',
@@ -36,7 +36,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'Bold carbon black frame paired with refined high-fashion serif typography. Perfect for artistic black-and-white portraits.',
       bgClass: 'bg-stone-950 border-stone-800',
       textClass: 'text-stone-100',
-      sampleImage: '/src/assets/images/demo_photobooth_vintage_1791782074122.jpg',
+      sampleImage: '/images/demo_photobooth_vintage.jpg',
     },
     {
       style: 'pink-retro',
@@ -46,7 +46,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'Romantic soft pastel pink frame with a playful corner heart sticker. Inspired by Japanese purikura booths.',
       bgClass: 'bg-rose-50 border-rose-200',
       textClass: 'text-rose-950',
-      sampleImage: '/src/assets/images/demo_photobooth_laugh_1791782061334.jpg',
+      sampleImage: '/images/demo_photobooth_laugh.jpg',
     },
     {
       style: 'film-strip',
@@ -56,7 +56,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'Analog negative frame with authentic sprocket holes and edge frame numbers, evoking a darkroom contact sheet.',
       bgClass: 'bg-stone-900 border-stone-800',
       textClass: 'text-stone-200',
-      sampleImage: '/src/assets/images/demo_photobooth_vintage_1791782074122.jpg',
+      sampleImage: '/images/demo_photobooth_vintage.jpg',
     },
     {
       style: 'vintage-cream',
@@ -66,7 +66,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'Soft cream rag paper with warm nostalgic typography and subtle vintage warmth. Perfect for memory collages.',
       bgClass: 'bg-[#F5EFEB] border-stone-300',
       textClass: 'text-stone-800',
-      sampleImage: '/src/assets/images/demo_photobooth_duo_1791782085669.jpg',
+      sampleImage: '/images/demo_photobooth_duo.jpg',
     },
     {
       style: 'party-confetti',
@@ -76,7 +76,7 @@ export const ShowcaseView: React.FC<ShowcaseViewProps> = ({ onSelectStyle }) => 
       description: 'Celebratory pastel frame sprinkled with cheerful confetti dots and a gold star stamp. Ideal for birthdays and events.',
       bgClass: 'bg-purple-50 border-purple-200',
       textClass: 'text-purple-950',
-      sampleImage: '/src/assets/images/demo_photobooth_duo_1791782085669.jpg',
+      sampleImage: '/images/demo_photobooth_duo.jpg',
     },
   ];
 

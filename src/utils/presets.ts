@@ -3,21 +3,21 @@ import { FrameSettings, FrameStyle, LayoutType, PhotoAdjustment } from '../types
 export const SAMPLE_PHOTOS = [
   {
     id: 'sample-1',
-    dataUrl: '/src/assets/images/demo_photobooth_laugh_1791782061334.jpg',
+    dataUrl: '/images/demo_photobooth_laugh.jpg',
     timestamp: Date.now() - 300000,
     width: 1024,
     height: 1024,
   },
   {
     id: 'sample-2',
-    dataUrl: '/src/assets/images/demo_photobooth_vintage_1791782074122.jpg',
+    dataUrl: '/images/demo_photobooth_vintage.jpg',
     timestamp: Date.now() - 200000,
     width: 1024,
     height: 1024,
   },
   {
     id: 'sample-3',
-    dataUrl: '/src/assets/images/demo_photobooth_duo_1791782085669.jpg',
+    dataUrl: '/images/demo_photobooth_duo.jpg',
     timestamp: Date.now() - 100000,
     width: 1024,
     height: 1024,
