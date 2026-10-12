@@ -1,0 +1,11 @@
+{
+  "name": "Snapbooth",
+  "description": "A modern digital photobooth web application with real webcam capture, custom photo strip layouts, aesthetic filters, frames, and local or cloud gallery storage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
